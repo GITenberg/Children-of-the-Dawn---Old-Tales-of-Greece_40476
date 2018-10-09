@@ -42,6 +42,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Mythology, Greek -- Juvenile literature'
 - !lcc 'PZ'
+- GITenberg
 tableOfContents: Introduction -- The riddle of the Sphinx -- Eros and Psyche -- Hero
   and Leander -- The sacrifice of Alcestis -- Hunting the Calydonian boar -- The curse
   of Echo -- The sculptor and the image -- The divine musician -- The flight of Arethusa
